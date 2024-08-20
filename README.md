@@ -73,33 +73,7 @@ AIFFEL_quest_rs
     │   ├── .ipynb
     │   └── README.md
     ├── Gd09
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Gd10
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Gd11
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Gd12
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Gd13
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Gd14
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Gd15
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Gd16
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Gd17
-    │   ├── .ipynb
-    │   └── README.md
-    └── Gd18
         ├── .ipynb
         └── README.md
+   
 ```
