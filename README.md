@@ -27,7 +27,8 @@ AIFFEL_quest_rs
 │       └── README.md
 ├── Exploration
 │   ├── Ex01
-│   │   ├── .ipynb
+│   │   ├── bike_sharing.ipynb
+│   │   ├── diabetes.ipynb
 │   │   └── README.md
 │   ├── Ex02
 │   │   ├── .ipynb
