@@ -2,7 +2,7 @@
 AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
-│   │   ├── .ipynb
+│   │   ├── gpt1.ipynb
 │   │   └── README.md
 │   ├── Quest02
 │   │   ├── .ipynb
@@ -28,26 +28,26 @@ AIFFEL_quest_rs
 ├── Exploration
 │   ├── Ex01
 │   │   ├── bike_sharing.ipynb
-│   │   ├── diabetes.ipynb
+│   │   ├──diabetes.ipynb
 │   │   └── README.md
 │   ├── Ex02
-│   │   ├── .ipynb
+│   │   ├── 집값예측.ipynb
 │   │   └── README.md
 │   ├── Ex03
-│   │   ├── .ipynb
+│   │   ├── camera_sticker.ipynb
 │   │   └── README.md
 │   ├── Ex04
-│   │   ├── .ipynb
+│   │   ├── human_segmentation.ipynb
 │   │   └── README.md
 │   ├── Ex05
-│   │   ├── .ipynb
+│   │   ├── 네이버 리뷰 감성평가.ipynb
 │   │   └── README.md
 │   ├── Ex06
-│   │   ├── .ipynb
+│   │   ├── 지옥의 summa.ipynb
 │   │   └── README.md
 │   ├── Ex07
-│       ├── .ipynb
-│       └── README.md
+│   │   ├── transformer_chatbot.ipynb
+│   │   └── README.md
 └── GoingDeeper
     ├── Gd01
     │   ├── .ipynb
